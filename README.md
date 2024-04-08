@@ -1,7 +1,7 @@
 # Multiplexer4to1
 # Aim
 To design 4to1 multiplexer using vivado.
-Apparatus Required
+# Apparatus Required
 Personal computer with vivado software.
 # Truth Table
 ![image](https://github.com/RESMIRNAIR/Multiplexer4to1/assets/154305926/f1dac9e1-e938-4072-bfa9-c17a0a54b7c7)
